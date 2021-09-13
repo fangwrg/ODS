@@ -1,0 +1,1 @@
+call C:\Projects\design-storm\Software\Python37\Lib\idlelib\idle.bat
